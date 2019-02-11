@@ -1,0 +1,3 @@
+[submodule "terraform-oci-instance"]
+	path = terraform-oci-instance
+	url = https://github.com/Kelleyc718/terraform-oci-instance.git
